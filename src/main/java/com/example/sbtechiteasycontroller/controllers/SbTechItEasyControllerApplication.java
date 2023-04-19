@@ -1,4 +1,4 @@
-package com.example.sbtechiteasycontroller;
+package com.example.sbtechiteasycontroller.controllers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
